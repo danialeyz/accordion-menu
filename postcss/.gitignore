@@ -1,4 +1,4 @@
-noide_modules/
+node_modules/
 src/
 packcage-lock.json
 postcss.config.js
